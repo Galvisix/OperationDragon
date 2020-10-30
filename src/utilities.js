@@ -1,16 +1,16 @@
 const satellites = {
     kenobi: {
-        location: { x: 100, y: 100},
+        location: { x: -500, y: -200},
         distance: -1.0,
         message: []
     },
     skywalker: {
-        location: { x: 50, y: 100},
+        location: { x: 100, y: -100},
         distance: -1.0,
         message: []
     },
     sato: {
-        location: { x: 100, y: -100},
+        location: { x: 500, y: 100},
         distance: -1.0,
         message: []
     }
